@@ -1,4 +1,4 @@
-# 🌡️ Sistema de Monitoreo de Temperatura IoT con Raspberry Pi Pico
+# 🌡️ Sistema de Monitoreo de Temperatura IoT con Raspberry Pi Pico W - WH
 
 ## 📖 Descripción del Proyecto
 Este proyecto demuestra un sistema de monitoreo de temperatura basado en IoT utilizando una Raspberry Pi Pico W y un sensor de temperatura LM35. El sistema captura datos de temperatura en tiempo real, los sube a la nube mediante ThingSpeak y realiza análisis de datos con MathWorks. Se generan alertas si la temperatura supera un umbral predefinido.
